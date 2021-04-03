@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b57685e-7fa3-4471-b2d1-ab4cfa978b12" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../stroimaster/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/.idea/commandlinetools/Laravel_21_02_2021__13_19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/.idea/commandlinetools/Laravel_21_02_2021__13_19.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/.idea/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/.idea/phpunit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/.idea/stroimaster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/.idea/stroimaster.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/.styleci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/.styleci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Console/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Exceptions/Handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Admin/AdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Admin/AdminController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Admin/AdminPagesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Admin/AdminPagesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Admin/AdminPriceController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Admin/AdminPriceController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Admin/AdminServicesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Admin/AdminServicesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Auth/ConfirmPasswordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/FeedbackController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/FeedbackController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/PagesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/PagesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/ServicesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Controllers/ServicesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/Authenticate.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/EncryptCookies.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/PreventRequestsDuringMaintenance.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/TrimStrings.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/TrustHosts.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/TrustHosts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/TrustProxies.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Requests/PageRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Requests/PageRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Requests/PriceRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Requests/PriceRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Http/Requests/ServiceRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Http/Requests/ServiceRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Models/Feedback.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Models/Feedback.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Models/NewPost.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Models/NewPost.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Models/Page.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Models/Page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Models/Price.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Models/Price.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Models/Service.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Models/Service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Providers/BroadcastServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Providers/TelescopeServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Providers/TelescopeServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Providers/TemplateServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Providers/TemplateServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/app/Services/PriceServices.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/app/Services/PriceServices.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/bootstrap/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/bootstrap/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/bootstrap/cache/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/bootstrap/cache/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/broadcasting.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/broadcasting.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/cache.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/cors.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/cors.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/filesystems.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/hashing.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/hashing.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/logging.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/logging.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/queue.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/queue.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/session.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/session.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/telescope.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/telescope.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/config/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/config/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/database/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/database/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/database/2021_03_01_084943_create_page_services_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/database/2021_03_01_084943_create_page_services_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/database/migrations/2021_02_21_103138_create_pages_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/database/migrations/2021_02_21_103138_create_pages_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/database/migrations/2021_02_21_175315_create_feedback_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/database/migrations/2021_02_21_175315_create_feedback_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/database/migrations/2021_02_23_224604_create_services_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/database/migrations/2021_02_23_224604_create_services_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/database/migrations/2021_03_01_082821_crete_page_service_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/database/migrations/2021_03_01_082821_crete_page_service_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/database/migrations/2021_03_01_134847_create_prices_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/database/migrations/2021_03_01_134847_create_prices_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/phpunit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/css/bootstrap-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/css/bootstrap-theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/css/myStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/css/myStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/css/newStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/css/newStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/animated.less" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/core.less" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/icons.less" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/larger.less" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/list.less" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/path.less" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/stacked.less" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/apply.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/apply.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/butRem.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/butRem.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/calculator.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/calculator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/dizProekt.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/dizProekt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/finish.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/finish.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/fon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/fon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/fon1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/fon1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/fonHeader.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/fonHeader.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/font.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/font.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/fotoAboutAs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/fotoAboutAs.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/kapRem.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/kapRem.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/kosmRem.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/kosmRem.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/logoSM.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/logoSM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/phone_72.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/phone_72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/prorab-72.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/prorab-72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/slider_01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/slider_01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/slider_03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/slider_03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/slider_04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/slider_04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/slider_05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/slider_05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/slider_07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/slider_07.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/smeta_72.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/smeta_72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/img/work.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/img/work.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/js/accordion.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/js/accordion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/js/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/js/ajax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/js/ajax1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/js/ajax1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/js/jquery-3.1.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/js/jquery-3.1.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/js/modernizr.custom.24530.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/js/modernizr.custom.24530.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/js/respimage.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/js/respimage.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/js/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/js/validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/Gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/css/lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/css/lightbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/css/lightbox.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/css/lightbox.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/images/close.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/images/close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/images/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/images/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/images/next.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/images/next.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/images/prev.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/images/prev.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/js/lightbox-plus-jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/js/lightbox-plus-jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/js/lightbox-plus-jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/js/lightbox-plus-jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/js/lightbox-plus-jquery.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/js/lightbox-plus-jquery.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/js/lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/js/lightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/js/lightbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/js/lightbox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/js/lightbox.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/dist/js/lightbox.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/src/css/lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/src/css/lightbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/src/images/close.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/src/images/close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/src/images/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/src/images/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/src/images/next.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/src/images/next.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/src/images/prev.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/src/images/prev.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/src/js/lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/fancybox-3.0/src/js/lightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/css/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/css/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/css/elastislide.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/css/elastislide.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/gallaery.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/gallaery.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/ImageAttribution.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/ImageAttribution.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/ajax-loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/ajax-loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/black.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/nav.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/nav.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/nav_thumbs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/nav_thumbs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/pattern.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/pattern.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/thumbs/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/views.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/images/views.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/js/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/js/gallery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/js/jquery.easing.1.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/js/jquery.easing.1.3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/js/jquery.elastislide.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/js/jquery.elastislide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/js/jquery.tmpl.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/gallery/js/jquery.tmpl.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/plagins/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/template/include/articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/template/include/articles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/template/include/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/template/include/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/template/include/gallary.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/template/include/gallary.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/template/include/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/template/include/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/template/include/price.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/template/include/price.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/template/include/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/template/include/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/template/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/template/template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/template/views/carousel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/template/views/carousel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/template/views/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/template/views/content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/template/views/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/template/views/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/template/views/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/template/views/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/template/views/meta.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/template/views/meta.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/assets/template/views/model_window.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/assets/template/views/model_window.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/css/adminlte.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/css/adminlte.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/css/adminlte.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/css/adminlte.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/css/adminlte.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/css/adminlte.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/css/adminlte.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/css/adminlte.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/img/AdminLTELogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/img/AdminLTELogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/js/adminlte.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/js/adminlte.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/js/adminlte.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/js/adminlte.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/js/adminlte.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/js/adminlte.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/js/adminlte.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/adminlte/dist/js/adminlte.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/brands.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/brands.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/brands.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/brands.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/fontawesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/fontawesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/fontawesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/fontawesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/regular.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/regular.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/regular.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/regular.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/solid.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/solid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/solid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/solid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/svg-with-js.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/svg-with-js.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/svg-with-js.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/svg-with-js.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/v4-shims.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/v4-shims.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/v4-shims.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/css/v4-shims.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/jquery/jquery.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/overlayScrollbars/css/OverlayScrollbars.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/overlayScrollbars/css/OverlayScrollbars.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/overlayScrollbars/css/OverlayScrollbars.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/overlayScrollbars/css/OverlayScrollbars.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/overlayScrollbars/js/OverlayScrollbars.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/overlayScrollbars/js/OverlayScrollbars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/overlayScrollbars/js/OverlayScrollbars.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/overlayScrollbars/js/OverlayScrollbars.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/overlayScrollbars/js/jquery.overlayScrollbars.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/overlayScrollbars/js/jquery.overlayScrollbars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/overlayScrollbars/js/jquery.overlayScrollbars.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/overlayScrollbars/js/jquery.overlayScrollbars.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper-utils.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper-utils.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper-utils.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper-utils.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/esm/popper.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper-utils.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper-utils.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper-utils.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper-utils.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/popper.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper-utils.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper-utils.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper-utils.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper-utils.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper.js.flow" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper.js.flow" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/popper/umd/popper.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/telescope/app-dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/telescope/app-dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/telescope/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/telescope/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/telescope/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/telescope/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/telescope/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/telescope/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/vendor/telescope/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/vendor/telescope/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/public/web.config" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/public/web.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/js/components/ExampleComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/js/components/ExampleComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/en/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/en/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/en/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/en/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/en/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/en/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/en/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/en/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/ar/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/ar/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/ca/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/ca/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/de/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/de/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/de/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/de/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/en/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/en/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/en/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/en/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/es/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/es/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/es/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/es/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/fa/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/fa/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/fr/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/fr/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/hr/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/hr/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/hu/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/hu/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/id/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/id/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/id/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/id/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/it/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/it/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/ja/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/ja/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/ja/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/ja/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/la/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/la/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/la/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/la/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/nl/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/nl/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/pl/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/pl/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/pt-br/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/pt-br/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/pt-br/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/pt-br/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/ru/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/ru/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/ru/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/ru/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/tr/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/tr/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/tr/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/tr/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/uk/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/uk/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/uk/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/uk/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/vi/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/vi/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/vi/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/vi/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/zh-CN/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/zh-CN/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/zh-CN/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/lang/vendor/adminlte/zh-CN/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/sass/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/admin/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/admin/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/admin/pages/page-create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/admin/pages/page-create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/admin/pages/page-edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/admin/pages/page-edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/admin/pages/page-show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/admin/pages/page-show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/admin/pages/pages-index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/admin/pages/pages-index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/admin/price/admin-price-create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/admin/price/admin-price-create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/admin/price/admin-price-index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/admin/price/admin-price-index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/admin/services/admin-service-create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/admin/services/admin-service-create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/admin/services/admin-services-edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/admin/services/admin-services-edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/admin/services/admin-services-index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/admin/services/admin-services-index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/admin/services/input-services.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/admin/services/input-services.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/auth/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/auth/passwords/confirm.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/auth/passwords/confirm.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/auth/passwords/email.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/auth/passwords/email.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/auth/passwords/reset.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/auth/register.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/auth/verify.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/auth/verify.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/admin-master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/admin-master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/carousel.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/carousel.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/imput-form-page.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/imput-form-page.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/info_header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/info_header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/message_error.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/message_error.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/message_success.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/message_success.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/meta.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/meta.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/model_window_index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/model_window_index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/nav_header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/layouts/nav_header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/pages/contacts.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/pages/contacts.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/pages/gallery.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/pages/gallery.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/pages/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/pages/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/pages/price.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/pages/price.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/resources/views/pages/services.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/resources/views/pages/services.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/routes/channels.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/routes/channels.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/routes/console.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/routes/console.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/server.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/storage/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/storage/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/storage/app/public/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/storage/app/public/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/storage/framework/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/storage/framework/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/storage/framework/cache/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/storage/framework/cache/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/storage/framework/cache/data/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/storage/framework/sessions/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/storage/framework/testing/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/storage/framework/testing/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/storage/framework/views/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/storage/framework/views/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/storage/logs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/storage/logs/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/tests/CreatesApplication.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/tests/CreatesApplication.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/tests/Feature/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/tests/TestCase.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/tests/TestCase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/tests/Unit/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stroimaster/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/webpack.mix.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../stroimaster" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1qXF5RBmzJzKgQRfbFaPu9sfnGt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b57685e-7fa3-4471-b2d1-ab4cfa978b12" name="Default Changelist" comment="" />
+      <created>1617217861621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617217861621</updated>
+      <workItem from="1617217879033" duration="389000" />
+      <workItem from="1617284461719" duration="12201000" />
+      <workItem from="1617366555170" duration="14258000" />
+      <workItem from="1617447807576" duration="7289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
