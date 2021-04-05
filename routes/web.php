@@ -23,3 +23,17 @@ Route::get('/gallery', 'App\Http\Controllers\PageController@gallery')->name('pag
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Route::prefix('admin')->middleware('auth')->group(function () {
+    Route::get('/', 'App\Http\Controllers\Admin\AdminIndexController@index')->name('admin.index');
+    Route::get('/settings', 'App\Http\Controllers\Admin\AdminController@settings')->name('admin.settings');
+    Route::get('/gallery', 'App\Http\Controllers\Admin\AdminController@gallery')->name('admin.gallery');
+    Route::resource('/pages', 'App\Http\Controllers\Admin\AdminPagesController');
+    Route::resource('/services', 'App\Http\Controllers\Admin\AdminServicesController');
+    Route::get('/price/edit-all-prices', 'App\Http\Controllers\Admin\AdminPriceController@editAllPrices')->name('editAllPrices');
+    Route::post('/price/update-all-prices', 'App\Http\Controllers\Admin\AdminPriceController@updateAllPrices')->name('updateAllPrices');
+    Route::post('/prices/update-price-for-service/{price}', 'App\Http\Controllers\Admin\AdminPriceAjaxController@updatePriceForService')->name('updatePriceForService');
+    Route::resource('/prices', 'App\Http\Controllers\Admin\AdminPriceController');
+    Route::resource('/feedbacks', 'App\Http\Controllers\Admin\AdminFeedbackController');
+    Route::resource('/gallery', 'App\Http\Controllers\Admin\AdminGalleryController');
+});
