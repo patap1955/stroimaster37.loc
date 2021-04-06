@@ -177,6 +177,14 @@ return [
         App\Providers\TelescopeServiceProvider::class,
         App\Providers\TemplateServiceProvider::class,
 
+        /*
+         * UploadImage  загрузка изображений
+         */
+        Spatie\Glide\GlideServiceProvider::class,
+        Dan\UploadImage\UploadImageServiceProvider::class,
+
+        Intervention\Image\ImageServiceProvider::class
+
     ],
 
     /*
@@ -229,6 +237,15 @@ return [
         'URL' => Illuminate\Support\Facades\URL::class,
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
+
+        /*
+         * UploadImage aliases
+         */
+
+        'GlideImage' => Spatie\Glide\GlideImageFacade::class,
+        'UploadImage' => Dan\UploadImage\UploadImageFacade::class,
+
+        'Image' => Intervention\Image\Facades\Image::class
 
     ],
 

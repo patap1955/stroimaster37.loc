@@ -40,7 +40,7 @@ Route::prefix('admin')->middleware('auth')->group(function () {
 
 Route::group(['prefix' => 'laravel-filemanager', 'middleware' => ['web', 'auth']], function () {
     \UniSharp\LaravelFilemanager\Lfm::routes();
+    Route::post('/upload/image', '\App\Http\Controllers\Admin\UploadImageController@uploader')->name('filemanager.upload');
 
 });
 
-Route::post('/upload/image', 'App\Http\Controllers\UploadImageController@upload');

@@ -14,3 +14,6 @@ const mix = require('laravel-mix');
 mix.js('resources/js/app.js', 'public/js')
     .vue()
     .sass('resources/sass/app.scss', 'public/css');
+
+mix.js(['resources/js/app.js', 'resources/assets/js/upload_image_preview.js'],
+    'public/js/all.js').version();

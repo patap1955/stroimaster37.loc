@@ -12,4 +12,8 @@
 </div>
 <a href="{{ route('pages.create') }}" class="btn btn-secondary">Добавить страницу</a>
 <input type="submit" value="Редактировать" class="btn btn-primary float-right">
+{{--<div class="image-preview-block">--}}
+{{--    <div class="image-preview-image"></div>--}}
+{{--    {!! Form::file('image', ['class' => 'image-preview-input']) !!}--}}
+{{--</div>--}}
 
