@@ -461,7 +461,13 @@
       <change beforePath="$PROJECT_DIR$/../stroimaster/tests/Unit/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/tests/Unit/ExampleTest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stroimaster/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stroimaster/webpack.mix.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/adminlte.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/adminlte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/admin-index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/admin-index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/layouts/input-form-page.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/layouts/input-form-page.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/pages/page-create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/pages/page-create.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

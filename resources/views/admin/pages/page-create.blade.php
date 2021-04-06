@@ -21,7 +21,7 @@
             </div>
             <div class="card-body">
                 @include('layouts.message_error')
-                <form method="post" action="{{ route('pages.store') }}">
+                <form method="post" action="{{ route('pages.store') }}" enctype="multipart/form-data">
                     @csrf
                     @include('admin.layouts.input-form-page')
                 </form>
@@ -34,11 +34,21 @@
 @stop
 
 @section('css')
-    <link rel="stylesheet" href="/css/admin_custom.css">
+
 @stop
 
 @section('js')
-
+    <script src="{{ asset('vendor/ckeditor/ckeditor.js') }}"></script>
+    <script>
+        var options = {
+            filebrowserImageBrowseUrl: '/laravel-filemanager?type=Images',
+            filebrowserImageUploadUrl: '/laravel-filemanager/upload?type=Images&_token={{ csrf_token() }}',
+            filebrowserBrowseUrl: '/laravel-filemanager?type=Files',
+            {{--filebrowserUploadUrl: '/laravel-filemanager/upload?type=Files&_token={{ csrf_token() }}'--}}
+            filebrowserUploadUrl: '/upload/image'
+        };
+        CKEDITOR.replace('ckeditor', options);
+    </script>
 @stop
 
 

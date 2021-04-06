@@ -37,3 +37,10 @@ Route::prefix('admin')->middleware('auth')->group(function () {
     Route::resource('/feedbacks', 'App\Http\Controllers\Admin\AdminFeedbackController');
     Route::resource('/gallery', 'App\Http\Controllers\Admin\AdminGalleryController');
 });
+
+Route::group(['prefix' => 'laravel-filemanager', 'middleware' => ['web', 'auth']], function () {
+    \UniSharp\LaravelFilemanager\Lfm::routes();
+
+});
+
+Route::post('/upload/image', 'App\Http\Controllers\UploadImageController@upload');
